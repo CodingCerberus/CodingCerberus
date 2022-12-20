@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodingCerberus
 - 👀 I’m interested in JavaScript, HTML and CSS
-- 🌱 I’m currently learning ... JavaScript, HTML and CSS...
+- 🌱 I’m currently learning ... Angular, Typescript, JavaScript, HTML and CSS...
 - 📫 How to reach me @codingcerberus on Twitter, Cerberus#6468 on discord
 
 <!---
